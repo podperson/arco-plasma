@@ -14,7 +14,7 @@ set -e
 ##################################################################################################################
 
 echo "################################################################"
-echo "####     Software from ArcoLinux Repository installed       ####"
+echo "####       Software from ArcoLinux Repository POded         ####"
 echo "################################################################"
 echo
 
@@ -65,7 +65,7 @@ sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
 
 
 echo "################################################################"
-echo "####     Software from ArcoLinux Repository installed       ####"
+echo "####       Software from ArcoLinux Repository POded         ####"
 echo "################################################################"
 echo
 
@@ -86,7 +86,7 @@ sudo pacman -S --noconfirm --needed insync
 sudo pacman -S --noconfirm --needed spotify
 
 echo "################################################################"
-echo "####     Software from ArcoLinux 3party Repository installed       ####"
+echo "####   Software from ArcoLinux 3party Repository POded      ####"
 echo "################################################################"
 echo
 
@@ -105,3 +105,7 @@ echo "removing to fix variety ~/.config/variety"
 echo "################################################################"
 echo
 rm -rf ~/.config/variety
+
+echo "################################################################"
+echo "####      600 Sortware from ArcoLinux Repo POded            ####"
+echo "################################################################"
